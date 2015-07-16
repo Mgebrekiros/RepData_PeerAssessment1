@@ -1,8 +1,8 @@
 ---
-title: "Reproducible Research: PeerAssessment"
+title: 'Reproducible Research: PeerAssessment'
 author: "Michale"
 date: "Thursday, July 16, 2015"
-output: html_document
+output: word_document
 ---
 Loading and preprocessing the data
 
